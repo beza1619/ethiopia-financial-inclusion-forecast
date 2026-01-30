@@ -1,0 +1,2 @@
+record_type,pillar,indicator,indicator_code,value_numeric,observation_date,source_name,source_url,confidence,category,parent_id,related_indicator,impact_direction,impact_magnitude,lag_months,evidence_basis,target_year,target_value 
+target,access,Account Ownership,TARGET_NFIS,,2030-12-31,NFIS II,,high,,,,,,,,60.0,60 

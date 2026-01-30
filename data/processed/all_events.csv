@@ -1,0 +1,6 @@
+record_type,pillar,indicator,indicator_code,value_numeric,observation_date,source_name,source_url,confidence,category,parent_id,related_indicator,impact_direction,impact_magnitude,lag_months,evidence_basis,target_year,target_value
+event,,Telebirr Launch,EVENT_TELEBIRR,,2021-05-01,Ethio Telecom,,high,product_launch,,,,,,,,
+event,,M-Pesa Entry,EVENT_MPESA,,2023-08-01,Safaricom,,high,product_launch,,,,,,,,
+event,,NFIS II Launch,EVENT_NFIS_II,,2020-07-01,National Bank of Ethiopia,https://nbebank.com/,high,policy,,,,,,,,
+event,,Interoperability Launch,EVENT_INTEROP,,2022-01-01,EthSwitch,https://ethswitch.com/,medium,infrastructure,,,,,,,,
+event,,4G Network Expansion,EVENT_4G_EXPANSION,,2020-01-01,Ethio Telecom,https://ethiotelecom.et/,medium,infrastructure,,,,,,,,

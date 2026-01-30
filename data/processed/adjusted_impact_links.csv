@@ -1,0 +1,7 @@
+record_type,pillar,indicator,indicator_code,value_numeric,observation_date,source_name,source_url,confidence,category,parent_id,related_indicator,impact_direction,impact_magnitude,lag_months,evidence_basis,target_year,target_value
+impact_link,access,Account Ownership,IMPACT_TELEBIRR_ACC,,2021-05-01,Modeled Impact,,medium,,EVENT_TELEBIRR,ACC_OWNERSHIP,positive,0.825,12.0,historical_ethiopia,,
+impact_link,usage,Mobile Money Account,IMPACT_MPESA_MM,,2023-08-01,Modeled Impact,,medium,,EVENT_MPESA,ACC_MM_ACCOUNT,positive,1.267,6.0,historical_ethiopia,,
+impact_link,access,Policy Impact - NFIS II,IMPACT_NFIS_ACC,,2020-07-01,Modeled Impact,,medium,,EVENT_NFIS_II,ACC_OWNERSHIP,positive,0.02,24.0,comparable_country,,
+impact_link,usage,Policy Impact - Digital Payments,IMPACT_NFIS_PAY,,2020-07-01,Modeled Impact,,medium,,EVENT_NFIS_II,USG_DIGITAL_PAYMENT,positive,0.03,18.0,comparable_country,,
+impact_link,usage,Interoperability Impact,IMPACT_INTEROP_PAY,,2022-01-01,Modeled Impact,,medium,,EVENT_INTEROP,USG_DIGITAL_PAYMENT,positive,0.04,12.0,comparable_country,,
+impact_link,enabler,4G Impact on Mobile Money,IMPACT_4G_MM,,2020-01-01,Modeled Impact,,low,,EVENT_4G_EXPANSION,ACC_MM_ACCOUNT,positive,0.015,6.0,comparable_country,,

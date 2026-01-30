@@ -1,0 +1,14 @@
+record_type,pillar,indicator,indicator_code,value_numeric,observation_date,source_name,source_url,confidence,category,parent_id,related_indicator,impact_direction,impact_magnitude,lag_months,evidence_basis,target_year,target_value 
+observation,access,Account Ownership,ACC_OWNERSHIP,14.0,2011-12-31,Global Findex 2011,https://globalfindex.worldbank.org/,high,,,,,,,,, 
+observation,access,Account Ownership,ACC_OWNERSHIP,22.0,2014-12-31,Global Findex 2014,https://globalfindex.worldbank.org/,high,,,,,,,,, 
+observation,access,Account Ownership,ACC_OWNERSHIP,35.0,2017-12-31,Global Findex 2017,https://globalfindex.worldbank.org/,high,,,,,,,,, 
+observation,access,Account Ownership,ACC_OWNERSHIP,46.0,2021-12-31,Global Findex 2021,https://globalfindex.worldbank.org/,high,,,,,,,,, 
+observation,access,Account Ownership,ACC_OWNERSHIP,49.0,2024-12-31,Global Findex 2024,https://globalfindex.worldbank.org/,high,,,,,,,,, 
+observation,usage,Mobile Money Account,ACC_MM_ACCOUNT,4.7,2021-12-31,Global Findex 2021,https://globalfindex.worldbank.org/,high,,,,,,,,, 
+observation,usage,Mobile Money Account,ACC_MM_ACCOUNT,9.45,2024-12-31,Global Findex 2024,https://globalfindex.worldbank.org/,high,,,,,,,,, 
+observation,usage,Digital Payments,USG_DIGITAL_PAYMENT,35.0,2024-12-31,Global Findex 2024,https://globalfindex.worldbank.org/,medium,,,,,,,,, 
+event,,Telebirr Launch,EVENT_TELEBIRR,,2021-05-01,Ethio Telecom,,high,product_launch,,,,,,,, 
+event,,M-Pesa Entry,EVENT_MPESA,,2023-08-01,Safaricom,,high,product_launch,,,,,,,, 
+impact_link,access,Account Ownership,IMPACT_TELEBIRR_ACC,,2021-05-01,Modeled Impact,,medium,,EVENT_TELEBIRR,ACC_OWNERSHIP,positive,0.05,12.0,comparable_country,, 
+impact_link,usage,Mobile Money Account,IMPACT_MPESA_MM,,2023-08-01,Modeled Impact,,medium,,EVENT_MPESA,ACC_MM_ACCOUNT,positive,0.03,6.0,comparable_country,, 
+target,access,Account Ownership,TARGET_NFIS,,2030-12-31,NFIS II,,high,,,,,,,,60.0,60 

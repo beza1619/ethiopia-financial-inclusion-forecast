@@ -1,0 +1,3 @@
+record_type,pillar,indicator,indicator_code,value_numeric,observation_date,source_name,source_url,confidence,category,parent_id,related_indicator,impact_direction,impact_magnitude,lag_months,evidence_basis,target_year,target_value 
+impact_link,access,Account Ownership,IMPACT_TELEBIRR_ACC,,2021-05-01,Modeled Impact,,medium,,EVENT_TELEBIRR,ACC_OWNERSHIP,positive,0.05,12.0,comparable_country,, 
+impact_link,usage,Mobile Money Account,IMPACT_MPESA_MM,,2023-08-01,Modeled Impact,,medium,,EVENT_MPESA,ACC_MM_ACCOUNT,positive,0.03,6.0,comparable_country,, 
