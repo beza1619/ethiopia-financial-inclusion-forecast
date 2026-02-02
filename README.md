@@ -134,7 +134,16 @@ ethiopia-fi-forecast/
 
 \- \*\*Digital payments\*\* will surpass account ownership by 2026
 
+## 🚀 Live Dashboard
+The interactive dashboard is deployed and available at:
+**👉 https://ethiopia-fi-forecast.streamlit.app/**
 
+## 📊 Key Features
+- Account ownership forecasts for 2025-2027
+- Digital payment adoption projections
+- Scenario analysis (optimistic/base/pessimistic)
+- Event impact modeling
+- Ethiopia-specific financial inclusion insights
 
 \## 🚀 How to Run
 
